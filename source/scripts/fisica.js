@@ -1,0 +1,3 @@
+const somar = require('./vision');
+
+console.log('somar ', somar(453, 199));

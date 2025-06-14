@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(255, 240, 33);
+}
+
+.gulpp {
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: azure;
+}
+.gulpp button {
+  padding: 25px;
+  font-size: 32px;
+  width: 40%;
+  border-radius: 2px;
+  cursor: pointer;
+  color: crimson;
+}
+/*# sourceMappingURL=maps/main.css.map */
